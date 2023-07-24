@@ -10,6 +10,12 @@ const Menu = () => (
   <p><a href="#possibility">Open AI</a></p>          
   <p><a href="#features">Case Studies</a></p>          
   <p><a href="#blog">Library</a></p>
+  <p><a href="#home2">Home 2</a></p>
+  <p><a href="#produtos">Produtos</a></p>
+  <p><a href="#clientes">Clientes</a></p>
+  <p><a href="#parceiros">Parceiros</a></p>
+  <p><a href="#sobre">Sobre</a></p>
+  <p><a href="#contato">Contato</a></p>
   </>
 );
 
